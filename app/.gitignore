@@ -1,0 +1,33 @@
+# Kotlin/Android specific
+/.gradle/
+/build/
+/local.properties
+/.idea/
+/*.iml
+/out/
+/.gradle/
+/**/build/
+
+# Android Studio specific files
+/.idea/
+/*.iml
+/.DS_Store
+
+# Gradle files
+.gradle/
+/build/
+/local.properties
+
+# Kotlin metadata and generated files
+/.kotlin/
+**/.kotlin/
+**/out/
+
+# IDE specific
+.idea/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
